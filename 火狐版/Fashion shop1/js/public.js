@@ -1,0 +1,10 @@
+$(function(){
+	//鼠标移动到我的风尚时是否出现列表
+	$('.mydFs').hover(function(){
+		$('.myFs').toggle()
+	})
+	//鼠标移动到列表时列表显示
+	$('.myFs').hover(function(){
+		$('.myFs').toggle()
+	})
+})

@@ -1,0 +1,37 @@
+/*------s_header--------*/
+.s_header{width: 900px;height: 109px;margin: 0 auto;border-bottom: 1px solid black;}
+.s_header{width: 900px;height: 109px;margin: 0 auto;}
+.s_logo{float: left;margin-top: 31px;}
+.s_header h3{display: inline-block;margin-top: 46px;}
+.s_header h3 a{color: #df2c2e;font-size: 34px;}
+.s_header span a{color: #b6b6b6;font-size: 34px;}
+
+/*------s_bodyer--------*/
+.s_bodyer{width: 100%;}
+.s_bodyer_body{width: 900px;height: 457px;margin: 0 auto;}
+.s_computer{width: 264px;height: 261px;margin: 48px 0 0 70px;float: left;}
+.s_inf{width: 408px;height: 420px;float: left;margin: 34px 0 0 80px;position: relative;}
+
+
+.s_phone{font-size: 12px;color: #333333;}
+.s_user{position: absolute;top: 26px;left: 278px;}
+.s_suo{position: absolute;top: 102px;left: 279px;}
+.s_phone1{width: 305px;height: 32px;margin-top:3px;}
+.s_phone2{width: 96px;height: 27px;text-align: center;line-height: 27px;color: ;font-size:12px ;background: #e0e0e0;border: 1px solid #a5a5a5;position: absolute;top: 64px;left: 211px;cursor: pointer;}
+.s_password{padding-top:23px;font-size: 12px;color: #333333;}
+.s_password1{width: 305px;height: 32px;margin-top:3px;}
+.s_check{margin-top:23px;}
+.zd{color: #333333;font-size: 12px;}
+.s_inf b a{font-size: 12px;color: #999999;}
+.s_inf i a{font-size: 12px;color: #999999;padding-left: 126px;}
+.s_btn{width: 306px;height: 42px;border-radius: 5px;line-height: 42px;text-align: center;background: #d32402;margin-top: 18px;}
+.s_btn a{color: white;font-size: 20px;}
+.s_say{width: 307px;height: 80px;border: 1px solid #dddddd;font-size: 12px;color: #666666;background: white;margin-top: 18px;}
+.s_say2{padding: 13px 0 0 10px;color: red;}
+.s_say3{line-height: 17px;}
+.s_say5{width: 257px;height: 34px;padding-left: 10px;}
+.s_say4{padding-top: 32px;color: #333333;font-size: 12px;}
+.s_buy{width: ;height: ;cursor: pointer;margin-top: 5px;}
+
+#s_span1{font-size: 12px;}
+#s_span2{font-size: 12px;}

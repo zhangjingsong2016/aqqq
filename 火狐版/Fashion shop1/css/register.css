@@ -1,0 +1,38 @@
+/*------r_header--------*/
+.r_header_boder{width: 100%;}
+.r_header{width: 900px;height: 109px;margin-left: 263px;}
+.r_logo{float: left;margin-top: 31px;}
+.r_header h3{display: inline-block;margin-top: 46px;}
+.r_header h3 a{color: #df2c2e;font-size: 34px;}
+.r_header span a{color: #b6b6b6;font-size: 34px;}
+/*------r_boyder--------*/
+.r_bodyer_title{height: 40px;width: 900px;margin-left: 263px;border-bottom: 1px solid black;}
+.r_bodyer_title p{float: right;font-size: 12px;padding-top: 20px;}
+.r_bodyer_title p a{color: #e3393c;}
+.new_rtr{height: 40px;width: 112px;background: white;border: 1px solid black;border-bottom: none;float: left;margin-left: 402px;border-top-left-radius: 5px;border-top-right-radius:5px ;font-size: 16px;font-weight: bolder; text-align: center;line-height: 40px;color: #e1373a;}
+.r_bodyer{width: 100%;}
+.r_bodyer_body{width: 1010px;height: 457px;margin-left:225px;}
+.red_bag{width: 316px;height: 237px;margin: 48px 0 0 15px;float: left;}
+/*------r_inf--------*/
+.r_inf{width: 654px;height: 380px;float: right;margin-top:34px;position: relative;}
+.r_inf p{display: inline-block;color: red;}
+.r_f1{padding-left: 48px;}
+.r_phone{width: 268px;height: 36px;}
+.i_inf{width: 170px;height: 28px;margin-top: 22px;}
+.r_inf .i_inf2{width: 89px;height: 30px;border: 1px solid #cccccc;display: inline-block;background: #ffffff;position: absolute;top: 62px;left: 284px;line-height: 30px;text-align: center;font-size: 12px;color: #434343;}
+.r_inf .i_inf2 a{color: black;}
+.i_inf2 a:hover{text-decoration: underline;}
+.r_inf span{font-size: 12px;color: #999999;}
+.i_inf3{position: absolute;left: 384px;top: 71px;}
+#r_emal{padding-left: 55px;color: black;}
+.r_emal1{width: 268px;height: 36px;margin-top: 22px;}
+.r_password{width: 268px;height: 36px;margin-top: 22px;}
+#r_password1{padding-left: 18px;}
+#r_password2{padding-left: 18px;}
+.r_password3{width: 268px;height: 36px;margin-top: 22px;}
+.r_check{margin:22px 0 0 106px;}
+.r_btn{width: 270px;height: 40px;background: red;border-radius: 5px;cursor: pointer;line-height: 40px;text-align: center;color: #FFFFFF;font-size: 20px;margin:22px 0 0 106px;}
+.r_sj{position: absolute;top: 10px;left: 350px;}
+.r_xin{position: absolute;top: 130px;left: 350px;}
+.r_s1{position: absolute;top: 187px;left: 350px;}
+.r_s2{position: absolute;top: 252px;left: 350px;}
